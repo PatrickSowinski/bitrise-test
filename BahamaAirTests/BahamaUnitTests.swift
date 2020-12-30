@@ -31,7 +31,7 @@ import UIKit
 @testable import Bahama_Air
 
 class BahamaUnitTests: XCTestCase {
-  
+  /*
   func testVCInit() {
     let testVC: ViewController? = ViewController()
     XCTAssertNotNil(testVC)
@@ -42,7 +42,7 @@ class BahamaUnitTests: XCTestCase {
     if let testVC = storyboard.instantiateInitialViewController() as? ViewController {
       XCTAssertTrue(testVC.viewExists)
     }
-  }
+  }*/
   /*
    func testPerformanceExample() throws {
    // This is an example of a performance test case.
